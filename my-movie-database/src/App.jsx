@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-      Ready for Capstone project.
+     <div className='bg-gray-300'> Ready for Capstone project.
+     </div>
     </>
   )
 }
